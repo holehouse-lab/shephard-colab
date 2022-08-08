@@ -1,6 +1,8 @@
 # SHEPHARD-colab
 
-This notebook contains data used in the Google colab notebook for SHEPHARD
+This contains data used in the Google colab notebooks for SHEPHARD
+This also includes links to SHEPHARD Notebook Tutorials on Google-Colab
+
 Data are organized by organism. 
 
 
