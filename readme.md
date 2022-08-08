@@ -4,10 +4,11 @@ This notebook contains data used in the Google colab notebook for SHEPHARD
 Data are organized by organism. 
 
 
+## SHEPHARD code repository
 The SHEPHARD code repository can be found [here](https://github.com/holehouse-lab/shephard).
 
 
-## Google-Colab Examples Notebooks 
+## Google-Colab Tutorial Notebooks 
 Below are links to run each of the SHEPHARD examples with google-colab:
 
 To start learning how to use SHEPHARD click a google colab link below!
