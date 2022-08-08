@@ -6,9 +6,10 @@ This also includes links to SHEPHARD Notebook Tutorials on Google-Colab
 Data are organized by organism. 
 
 
-## SHEPHARD code repository
-The SHEPHARD code repository can be found [here](https://github.com/holehouse-lab/shephard).
+## SHEPHARD Code & Documentation
+The SHEPHARD Code can be found [here](https://github.com/holehouse-lab/shephard).
 
+SHEPHARD Documentation: https://shephard.readthedocs.io/en/latest/
 
 ## Google-Colab Tutorial Notebooks 
 Below are links to run each of the SHEPHARD examples with google-colab:
