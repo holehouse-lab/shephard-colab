@@ -2,12 +2,6 @@
 
 This contains data used in the Google colab notebooks for SHEPHARD and links to SHEPHARD Notebook Tutorials on Google-Colab
 
-## Supporting Data & Analysis Notebooks for SHEPHARD related Papers
-
-Ginell et al. 2022
-Notebooks for specific analysis found in paper are [here](https://github.com/holehouse-lab/supportingdata/tree/master/2022/ginell_2022)/
-
-
 ## SHEPHARD Code & Documentation
 The SHEPHARD Code can be found [here](https://github.com/holehouse-lab/shephard).
 
@@ -41,3 +35,9 @@ Site Examples:
 Working with attributes:
 
 [add_callable_attributes](https://colab.research.google.com/drive/1NwZJ9PWOy5B-XILBdX1Mo7L06NEq5ZtY?usp=sharing)
+
+## Supporting Data & Manuscript Analysis Notebooks 
+
+Ginell et al. 2022
+Notebooks for specific analysis found in paper are [here](https://github.com/holehouse-lab/supportingdata/tree/master/2022/ginell_2022)/
+
