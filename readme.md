@@ -39,5 +39,6 @@ Working with attributes:
 ## Supporting Data & Manuscript Analysis Notebooks 
 
 Ginell et al. 2022
-Notebooks for specific analysis found in paper are [here](https://github.com/holehouse-lab/supportingdata/tree/master/2022/ginell_2022)/
+
+Notebooks for specific analysis found in paper are [here](https://github.com/holehouse-lab/supportingdata/tree/master/2022/ginell_2022)
 
