@@ -1,3 +1,0 @@
-# Github repo Ginell et al. 2022
-
-To be updated...
