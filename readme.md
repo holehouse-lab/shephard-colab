@@ -2,7 +2,10 @@
 
 This contains data used in the Google colab notebooks for SHEPHARD and links to SHEPHARD Notebook Tutorials on Google-Colab
 
-Data are organized by organism. 
+## Supporting Data & Analysis Notebooks for SHEPHARD related Papers
+
+Ginell et al. 2022
+Notebooks for specific analysis found in paper are [here](https://github.com/holehouse-lab/supportingdata/tree/master/2022/ginell_2022)/
 
 
 ## SHEPHARD Code & Documentation
