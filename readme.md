@@ -25,10 +25,11 @@ To start learning how to use SHEPHARD click a google colab link below!
 
 | Catagory | Google-Colab Notebook Description |
 | --- | --- |
+| | |
 | Working with sequences |
-| Domain Examples | ##### [read_fasta_map_domains](https://github.com/holehouse-lab/shephard-colab/blob/main/readme.md#read_fasta_map_domains) |
-| |  |
+| Domain Examples | [read_fasta_map_domains](https://github.com/holehouse-lab/shephard-colab/blob/main/readme.md#read_fasta_map_domains) |
 | Site Examples |
+| | |
 | Tools for streemlined analysis |
 | Working with attributes |
 
@@ -36,7 +37,7 @@ To start learning how to use SHEPHARD click a google colab link below!
 
 #### Domain Examples:
 
-##### [read_fasta_map_domains](https://colab.research.google.com/drive/1Q_OTNAxCHk43MeUQ4gCVs9GetUk_6fAI?usp=sharing)
+##### Google-Colab [read_fasta_map_domains](https://colab.research.google.com/drive/1Q_OTNAxCHk43MeUQ4gCVs9GetUk_6fAI?usp=sharing)
 
 Functionally the example script identifies the C- and N- domains of protiens, calculates the Serine and Glycine content
 of the terminal domains, and returns protiens that have C- of N- domains comprised of Poly-GS. This example demonstrates how to: 
