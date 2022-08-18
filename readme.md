@@ -16,21 +16,21 @@ To start learning how to use SHEPHARD click a google colab link below!
 
 ### Working with sequences:
 
-Domain Examples:
+##### Domain Examples:
 
 **[read_fasta_map_domains](https://colab.research.google.com/drive/1Q_OTNAxCHk43MeUQ4gCVs9GetUk_6fAI?usp=sharing)** 
 
-This example demostrates how to: 
-*Read in a FASTA using SHEPHARD.APIs 
-*Add domains to protiens
-*Anylize domains assigning domain attributes
+Functionally the example script identifies the C- and N- domains of protiens, calculates the Serine and Glycine content
+of the terminal domains, and returns protiens that have C- of N- domains comprised of Poly-GS.
 
- Functionally the example script identifies the C- and N- domains of protiens, calculates the Serine and Glycine content
- of the terminal domains, and returns protiens that have C- of N- domains comprised of Poly-GS.
+This example demostrates how to: 
+ * Read in a FASTA using SHEPHARD.APIs 
+ * Add domains to protiens
+ * Anylize domains assigning domain attributes
 
 [get_overlaping_domains](https://colab.research.google.com/drive/1gBSbQWtBzSwIm1SaR0Cj9Vk4CgU44DtW?usp=sharing)
 
-Site Examples:
+##### Site Examples:
 
 [get_sequence_around_site](https://colab.research.google.com/drive/1bb_j9kTZj06NOJMfYOlQCGY3OAK6vR5d?usp=sharing) 
     
@@ -42,7 +42,7 @@ Site Examples:
 
 ### Tools for streemlined analysis:
 
-Working with attributes:
+##### Working with attributes:
 
 [add_callable_attributes](https://colab.research.google.com/drive/1NwZJ9PWOy5B-XILBdX1Mo7L06NEq5ZtY?usp=sharing)
 
