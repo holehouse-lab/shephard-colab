@@ -24,7 +24,7 @@ To start learning how to use SHEPHARD click a google colab link below!
 *NOTE: The analyses done in the example notebooks are purely a demonstration of what is capable in SHEPHARD*
 
 | | | **Google-Colab Notebook Descriptions:** |
-| | ---: | --- |
+| --- | ---: | --- |
 | Working with sequences | | 
 | | Domain Examples | [read_fasta_map_domains](https://github.com/holehouse-lab/shephard-colab#google-colab-read_fasta_map_domains),  [get_overlaping_domains](https://github.com/holehouse-lab/shephard-colab#google-colab-get_overlaping_domains)|
 | | Site Examples | [get_sequence_around_site](https://github.com/holehouse-lab/shephard-colab#google-colab-get_sequence_around_site),  [find_sites_near_PTMs](https://github.com/holehouse-lab/shephard-colab#google-colab-find_sites_near_ptms),  [find_lxvp_sites](https://github.com/holehouse-lab/shephard-colab#google-colab-find_lxvp_sites)|
