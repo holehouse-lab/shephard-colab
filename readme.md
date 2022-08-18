@@ -37,7 +37,7 @@ To start learning how to use SHEPHARD click a google colab link below!
 
 #### Domain Examples:
 
-##### Google-Colab [read_fasta_map_domains](https://colab.research.google.com/drive/1Q_OTNAxCHk43MeUQ4gCVs9GetUk_6fAI?usp=sharing)
+##### Google-Colab: [read_fasta_map_domains](https://colab.research.google.com/drive/1Q_OTNAxCHk43MeUQ4gCVs9GetUk_6fAI?usp=sharing)
 
 Functionally the example script identifies the C- and N- domains of protiens, calculates the Serine and Glycine content
 of the terminal domains, and returns protiens that have C- of N- domains comprised of Poly-GS. This example demonstrates how to: 
@@ -46,7 +46,7 @@ of the terminal domains, and returns protiens that have C- of N- domains compris
  * Add domains to protiens
  * Anylize domains assigning domain attributes
 
-[get_overlaping_domains](https://colab.research.google.com/drive/1gBSbQWtBzSwIm1SaR0Cj9Vk4CgU44DtW?usp=sharing)
+##### Google-Colab: [get_overlaping_domains](https://colab.research.google.com/drive/1gBSbQWtBzSwIm1SaR0Cj9Vk4CgU44DtW?usp=sharing)
 
 Here this notebook provides an example for how to evaluate overlap of domains in a protien, as well as getting the 
 fraction of overlap between any two domains. This example demonstrates how to: 
@@ -58,7 +58,7 @@ fraction of overlap between any two domains. This example demonstrates how to:
 
 #### Site Examples:
 
-[get_sequence_around_site](https://colab.research.google.com/drive/1bb_j9kTZj06NOJMfYOlQCGY3OAK6vR5d?usp=sharing) 
+##### Google-Colab: [get_sequence_around_site](https://colab.research.google.com/drive/1bb_j9kTZj06NOJMfYOlQCGY3OAK6vR5d?usp=sharing) 
 
 The get_sequence_around_site example takes and inputed protien sequence and defines all the Arginines (R) residues
 as sites and then gets the local sequence context around these sites. This example demonstrates how to: 
@@ -69,7 +69,7 @@ as sites and then gets the local sequence context around these sites. This examp
  * Perform Site specific analysis
  * Get local sequence around a Site
 
-[find_sites_near_PTMs](https://colab.research.google.com/drive/1D2TOFDO6rYgMjAQB3Ft1u_GEIFjSE_Yt?usp=sharing)
+##### Google-Colab: [find_sites_near_PTMs](https://colab.research.google.com/drive/1D2TOFDO6rYgMjAQB3Ft1u_GEIFjSE_Yt?usp=sharing)
 
 This notebook reads in all the proteins and annotated PTMs in the human proteome and calculates the 
 frequency occurence of PTMs near Dimethylation sites in the human proteome. This example demonstrates how to: 
@@ -81,7 +81,7 @@ frequency occurence of PTMs near Dimethylation sites in the human proteome. This
  * Add proteome attribute for quick reference of performed analysis
  * Calculate frequency of PTM sites proximal to a site type 
 
-[find_lxvp_sites](https://colab.research.google.com/drive/1iMDgYAozgNgGEn518XOp0IZGuWpcJ2Jb?usp=sharing)
+##### Google-Colab: [find_lxvp_sites](https://colab.research.google.com/drive/1iMDgYAozgNgGEn518XOp0IZGuWpcJ2Jb?usp=sharing)
 
 This notebook reads in all the proteins and Intrisically disordered regions in the human proteome and uses 
 python string parsing to map all 'LXVP' as Sites in the proteome. This example demonstrates how to: 
@@ -96,7 +96,7 @@ python string parsing to map all 'LXVP' as Sites in the proteome. This example d
 
 #### Working with attributes:
 
-[uniprot_id_to_gene_name](https://colab.research.google.com/drive/1kIyC9cBSPf9UeeMuUlwmupro77RZF0ef?usp=sharing)
+##### Google-Colab: [uniprot_id_to_gene_name](https://colab.research.google.com/drive/1kIyC9cBSPf9UeeMuUlwmupro77RZF0ef?usp=sharing)
 
 This notebook provides an example for how to parse the complex protein headers of uniprot FASTA files and 
 extract the proteins associated gene name. This example demonstrates how to: 
@@ -107,7 +107,7 @@ extract the proteins associated gene name. This example demonstrates how to:
  * Write protein attributes using SHEPHARD interfaces 
  * Read in protein attributes using SHEPHARD interfaces
 
-[add_callable_attributes](https://colab.research.google.com/drive/1NwZJ9PWOy5B-XILBdX1Mo7L06NEq5ZtY?usp=sharing)
+##### Google-Colab: [add_callable_attributes](https://colab.research.google.com/drive/1NwZJ9PWOy5B-XILBdX1Mo7L06NEq5ZtY?usp=sharing)
 
 This notebook provides an example for how to use associated attributes to save functions and call them later in analysis. In
 this example a lambda function is saved as proteome attribute which allows one to call the attribute and pass a protein length to 
