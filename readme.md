@@ -20,12 +20,12 @@ Domain Examples:
 
 [read_fasta_map_domains](https://colab.research.google.com/drive/1Q_OTNAxCHk43MeUQ4gCVs9GetUk_6fAI?usp=sharing) 
 
-    This example demostrates how to:  - Read in a FASTA using SHEPHARD.APIs 
-                                      - Add domains to protiens
-                                      - Anylize domains assigning domain attributes
-    
-    Functionally the example script identifies the C- and N- domains of protiens, calculates the Serine and Glycine content
-    of the terminal domains, and returns protiens that have C- of N- domains comprised of Poly-GS.
+> This example demostrates how to:  - Read in a FASTA using SHEPHARD.APIs 
+>                                  - Add domains to protiens
+>                                  - Anylize domains assigning domain attributes
+>
+> Functionally the example script identifies the C- and N- domains of protiens, calculates the Serine and Glycine content
+> of the terminal domains, and returns protiens that have C- of N- domains comprised of Poly-GS.
 
 [get_overlaping_domains](https://colab.research.google.com/drive/1gBSbQWtBzSwIm1SaR0Cj9Vk4CgU44DtW?usp=sharing)
 
