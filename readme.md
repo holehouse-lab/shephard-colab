@@ -32,9 +32,8 @@ of the terminal domains, and returns protiens that have C- of N- domains compris
 [get_overlaping_domains](https://colab.research.google.com/drive/1gBSbQWtBzSwIm1SaR0Cj9Vk4CgU44DtW?usp=sharing)
 
 Here this notebook provides an example for how to evaluate overlap of domains in a protien, as well as getting the 
-fraction of overlap between any two domains. 
+fraction of overlap between any two domains. This example demostrates how to: 
 
-This example demostrates how to: 
  * Initialize an empty proteome and add proteins 
  * Add domains to proteins
  * Use build-in domain functions and domain_tools 
@@ -45,9 +44,8 @@ This example demostrates how to:
 [get_sequence_around_site](https://colab.research.google.com/drive/1bb_j9kTZj06NOJMfYOlQCGY3OAK6vR5d?usp=sharing) 
 
 The get_sequence_around_site example takes and inputed protien sequence and defines all the Arginines (R) residues
-as sites and then gets the local sequence context around these sites.
+as sites and then gets the local sequence context around these sites. This example demostrates how to: 
 
-This example demostrates how to: 
  * Initialize an empty proteome and add protein 
  * Find specific positions of residues
  * Add sites to proteins (adding a numerical value to the site)
@@ -57,9 +55,8 @@ This example demostrates how to:
 [find_sites_near_PTMs](https://colab.research.google.com/drive/1D2TOFDO6rYgMjAQB3Ft1u_GEIFjSE_Yt?usp=sharing)
 
 This notebook reads in all the proteins and annotated PTMs in the human proteome and calculates the 
-frequency occurence of PTMs near Dimethylation sites in the human proteome.
+frequency occurence of PTMs near Dimethylation sites in the human proteome. This example demostrates how to: 
 
-This example demostrates how to: 
  * Initialize an empty proteome and add proteins from shprd protein file 
  * Add sites from shprd site file
  * Filter proteome for sites of specific type
@@ -70,9 +67,8 @@ This example demostrates how to:
 [find_lxvp_sites](https://colab.research.google.com/drive/1iMDgYAozgNgGEn518XOp0IZGuWpcJ2Jb?usp=sharing)
 
 This notebook reads in all the proteins and Intrisically disordered regions in the human proteome and uses 
-python string parsing to map all 'LXVP' as Sites in the proteome.
+python string parsing to map all 'LXVP' as Sites in the proteome. This example demostrates how to: 
 
-This example demostrates how to: 
  * Read in a uniprot FASTA using SHEPHARD.APIs 
  * Add domains from shprd domains file
  * Iterate over domains in proteome
@@ -84,6 +80,16 @@ This example demostrates how to:
 #### Working with attributes:
 
 [add_callable_attributes](https://colab.research.google.com/drive/1NwZJ9PWOy5B-XILBdX1Mo7L06NEq5ZtY?usp=sharing)
+
+This notebook provides an example for how to use associated attributes to save functions and call them later in analysis. In
+this example a lambda function is saved as proteome attribute which allows one to call the attribute and pass a protein length to 
+identify the what percentile the in protein legnth is in in the proteome.  This example demostrates how to: 
+
+ * Read in a uniprot FASTA using SHEPHARD.APIs 
+ * Generate an array comprised of protein lengths in proteome
+ * Save a lambda function as proteome attribute 
+ * Get the value of a parameter at a specific percentile relitive to the proteome
+ * Call a proteome attribute and pass it an intput
 
 ---
 ## Supporting Data & Manuscript Analysis Notebooks 
