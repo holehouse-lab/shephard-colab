@@ -27,8 +27,8 @@ To start learning how to use SHEPHARD click a google colab link below!
 | --- | --- |
 | | |
 | Working with sequences |
-| Domain Examples | [read_fasta_map_domains](https://github.com/holehouse-lab/shephard-colab/blob/main/readme.md#read_fasta_map_domains) |
-| Site Examples |
+| Domain Examples | [read_fasta_map_domains](https://github.com/holehouse-lab/shephard-colab#google-colab-read_fasta_map_domains), [get_overlaping_domains](https://github.com/holehouse-lab/shephard-colab#google-colab-get_overlaping_domains)|
+| Site Examples | [get_sequence_around_site](https://github.com/holehouse-lab/shephard-colab#google-colab-get_sequence_around_site)|
 | | |
 | Tools for streemlined analysis |
 | Working with attributes |
