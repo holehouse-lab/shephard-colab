@@ -9,6 +9,13 @@ The SHEPHARD Code can be found [here](https://github.com/holehouse-lab/shephard)
 SHEPHARD Documentation: https://shephard.readthedocs.io/en/latest/
 
 ---
+## Supporting Data & Manuscript Analysis Notebooks 
+
+Ginell et al. 2022
+
+Notebooks for specific analysis found in paper are [here](https://github.com/holehouse-lab/supportingdata/tree/master/2022/ginell_2022)
+
+---
 ## Google-Colab Tutorial Notebooks 
 Below are links to run each of the SHEPHARD examples with google-colab:
 
@@ -90,11 +97,4 @@ identify the what percentile the in protein legnth is in in the proteome.  This 
  * Save a lambda function as proteome attribute 
  * Get the value of a parameter at a specific percentile relitive to the proteome
  * Call a proteome attribute and pass it an intput
-
----
-## Supporting Data & Manuscript Analysis Notebooks 
-
-Ginell et al. 2022
-
-Notebooks for specific analysis found in paper are [here](https://github.com/holehouse-lab/supportingdata/tree/master/2022/ginell_2022)
 
