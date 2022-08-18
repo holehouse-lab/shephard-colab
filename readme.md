@@ -23,9 +23,8 @@ To start learning how to use SHEPHARD click a google colab link below!
 [read_fasta_map_domains](https://colab.research.google.com/drive/1Q_OTNAxCHk43MeUQ4gCVs9GetUk_6fAI?usp=sharing)
 
 Functionally the example script identifies the C- and N- domains of protiens, calculates the Serine and Glycine content
-of the terminal domains, and returns protiens that have C- of N- domains comprised of Poly-GS.
+of the terminal domains, and returns protiens that have C- of N- domains comprised of Poly-GS. This example demostrates how to: 
 
-This example demostrates how to: 
  * Read in a FASTA using SHEPHARD.APIs 
  * Add domains to protiens
  * Anylize domains assigning domain attributes
