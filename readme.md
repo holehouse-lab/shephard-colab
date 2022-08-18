@@ -23,12 +23,14 @@ To start learning how to use SHEPHARD click a google colab link below!
 
 *NOTE: The analyses done in the example notebooks are purely a demonstration of what is capable in SHEPHARD*
 
-| Google-Colab Notebook | Description | Jupyter-Notebook |
-| --- | --- | --- |
+| Catagory | Google-Colab Notebook Description |
+| --- | --- |
 | Working with sequences |
-| Domain Examples |
-| [read_fasta_map_domains](https://colab.research.google.com/drive/1Q_OTNAxCHk43MeUQ4gCVs9GetUk_6fAI?usp=sharing) |  ##### [read_fasta_map_domains] |
-
+| Domain Examples | ##### [read_fasta_map_domains](https://github.com/holehouse-lab/shephard-colab/blob/main/readme.md#read_fasta_map_domains) |
+| |  |
+| Site Examples |
+| Tools for streemlined analysis |
+| Working with attributes |
 
 ### Working with sequences:
 
