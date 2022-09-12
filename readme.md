@@ -4,18 +4,35 @@ This contains data used in the Google colab notebooks for SHEPHARD and links to 
 
 ---
 ## SHEPHARD Code & Documentation
-The SHEPHARD Code can be found [here](https://github.com/holehouse-lab/shephard).
+The SHEPHARD code can be found [here](https://github.com/holehouse-lab/shephard).
 
-SHEPHARD Documentation: https://shephard.readthedocs.io/en/latest/
+The SHEPHARD documentation can be found here: [https://shephard.readthedocs.io/en/latest/](https://shephard.readthedocs.io/en/latest/)
 
 ---
 ## Supporting Data & Manuscript Analysis Notebooks 
 
 Ginell, Flynn & Holehouse 2022
 
-Notebooks for specific analysis found in paper are [here](https://github.com/holehouse-lab/supportingdata/tree/master/2022/ginell_2022)
+All data and code used for the analysis in the paper can be found here [here](https://github.com/holehouse-lab/supportingdata/tree/master/2022/ginell_2022)
 
 ---
+## Google-Colab Human Proteome Notebook
+We provide a ready-to-analyze notebook with the annotated human proteome which can be taken and used to perform novel proteome-wide analysis. 
+
+The human proteome is annotated with the following data:
+
+1. Post-translational modifications
+2. Intrinsically disordered regions
+3. Prion-like domains
+4. Per-residue secondary structure annotation
+5. Per-residue solvation scores
+6. Protein copy number
+
+Once the first three cells are run, the user is free to either run the demo cells or begin novel analysis.
+
+##### Google-Colab: [human\_proteome\_analysis](https://colab.research.google.com/drive/1cUHClcA4Fcl-byP_syIDRwycANpO8Na2)
+
+
 ## Google-Colab Tutorial Notebooks 
 Below are links to run each of the SHEPHARD examples with google-colab:
 
