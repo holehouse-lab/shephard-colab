@@ -1,6 +1,6 @@
 # SHEPHARD-colab
 
-This contains data used in the Google colab notebooks for SHEPHARD and links to SHEPHARD Notebook Tutorials on Google-Colab
+This contains data used in the Google colab notebooks for SHEPHARD and links to SHEPHARD notebook tutorials implemented in Google-Colab notebooks.
 
 ---
 ## SHEPHARD Code & Documentation
