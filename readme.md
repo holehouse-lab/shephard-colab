@@ -42,7 +42,7 @@ To start learning how to use SHEPHARD click a google colab link below!
 
 | **Google-Colab Notebook Descriptions:** |
 | :--- |
-| [read_fasta_map_domains](https://github.com/holehouse-lab/shephard-colab#google-colab-read_fasta_map_domains),  [get_overlaping_domains](https://github.com/holehouse-lab/shephard-colab#google-colab-get_overlaping_domains),  [get_sequence_around_site](https://github.com/holehouse-lab/shephard-colab#google-colab-get_sequence_around_site),  [find_sites_near_PTMs](https://github.com/holehouse-lab/shephard-colab#google-colab-find_sites_near_ptms),  [find_lxvp_sites](https://github.com/holehouse-lab/shephard-colab#google-colab-find_lxvp_sites),  [uniprot_id_to_gene_name](https://github.com/holehouse-lab/shephard-colab#google-colab-uniprot_id_to_gene_name),  [add_callable_attributes](https://github.com/holehouse-lab/shephard-colab#google-colab-add_callable_attributes) |
+| [read_fasta_map_domains](https://github.com/holehouse-lab/shephard-colab#google-colab-read_fasta_map_domains),  [get_overlaping_domains](https://github.com/holehouse-lab/shephard-colab#google-colab-get_overlaping_domains),  [get_sequence_around_site](https://github.com/holehouse-lab/shephard-colab#google-colab-get_sequence_around_site),  [find_sites_near_PTMs](https://github.com/holehouse-lab/shephard-colab#google-colab-find_sites_near_ptms),  [find_lxvp_sites](https://github.com/holehouse-lab/shephard-colab#google-colab-find_lxvp_sites),  [uniprot_id_to_gene_name](https://github.com/holehouse-lab/shephard-colab#google-colab-uniprot_id_to_gene_name),  [add_callable_attributes](https://github.com/holehouse-lab/shephard-colab#google-colab-add_callable_attributes), [build_track_from_sliding_window](https://colab.research.google.com/drive/12SXmYC5v-5G1dAxXbWWovxAwFyn6fduy?usp=sharing) |
 
 ### Working with sequences:
 
@@ -67,6 +67,17 @@ fraction of overlap between any two domains. This example demonstrates how to:
  * Add domains to proteins
  * Use built-in domain manipulation functions and functions in `shephard.tools.domain_tools`
  * Calculate the fractional overlap between domains
+
+#### Track Examples: 
+
+##### Google-Colab: [build_track_from_sliding_window](https://colab.research.google.com/drive/12SXmYC5v-5G1dAxXbWWovxAwFyn6fduy?usp=sharing)
+
+This notebook provides an example for how to evalute a sqeuquence using a sliding window, as well as get the a region of
+a track that is within a domain. This example demonstrates how to: 
+
+ * Add Tracks based on a custom function  
+ * Calculate the fraction of residues using a slideing window
+ * Extract the portion of track that alines to a specific domain
 
 #### Site Examples:
 
