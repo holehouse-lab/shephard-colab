@@ -140,3 +140,7 @@ identify the what percentile the in protein length is in in the proteome.  This 
  * Get the value of a parameter at a specific percentile relative to the proteome
  * Call a proteome attribute and pass it an input
 
+
+##### Google-Colab: [read_in_all_data](https://colab.research.google.com/drive/1BODfKDUidvpWw-d7ZKmY8nQpqlJx6YhC?usp=sharing)
+
+This notebook provides the base SHEPHARD session for exploritory analysis of the human proteome
